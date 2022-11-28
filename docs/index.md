@@ -6,83 +6,54 @@ title: Mason Schenk's Resume
 Software Engineering Student at BYU-Idaho.
 
 <div id="webaddress">
-| <a href="mailto:masonschenk@gmail.com?subject=subject-Mail me">Email</a>
+<a href="mailto:masonschenk@gmail.com?subject=subject-Mail me">Email</a>
 | <a href="https://www.linkedin.com/in/masonschenk/">LinkedIn</a>
 | <a href="https://github.com/mschenk7474">GitHub</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
-
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2019-2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.81 GPA
 
+## Experimental Learning Projects
+__Command Line Calculator__, Personal Project ~ Java
+* Designed software with multiple classes that inherit from one another to utilize basic syntax up to object- oriented programming in evaluation of my Java knowledge
+* Created a calculator in the command line that incorporates all basic math functions in a menu to field math questions a user may have
+* Customized the calculator to show previous totals by reorganizing the totals into a list so the user could track the totals they already calculated
 
-## Related Experience
+__Steam Inspired MySQL Database__, Group Member ~ SQL, Python, Excel
+* Demonstrated the ability to create and populate a MySQL database through testing concepts taught over the semester using the SQL language
+* Engineered many key relationships between tables in the database by experimenting with the creation of tables and how to foster relationships between the tables more effectively to deliver a database with multiple tables integrated
+* Structured the database with custom-made data extracted from Excel and implemented using Python to transform the database into a usable model
 
-### Internships
+__Sleep Calculator IOS App__, Personal Project ~ Swift, SwiftUI
+* Examined the life-long question of what time is the best to wake up by analyzing different times people wake up and how they calculate it
+* Pioneered a mobile app calculator to explain to the user when someone should wake up by integrating the calculations and methods discovered
+* Showcased a fully functional IOS app that accepts the user’s bedtime,and reports what times would be best to wake up at
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+## Work Experience
+`2022-`
+__AvantGuard Monitoring Centers__, Team Mentor
+* Maximized customer safety and satisfaction by properly administering resources and emotional support in
+crisis situations
+* Resolved customer conflict and advised solutions to situations they informed me of when communicating over
+the phone
+* Earned a promotion to mentor other operators by demonstrating knowledge and integrity in areas the company
+lacked to enhance the company’s efficiency
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2022-`
+__Project Coordinator__, Artificial Intelligence Society, BYUI
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2020-2020`
+__Full-Time Volunteer Missionary__, West Virginia
 
 
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 

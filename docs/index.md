@@ -13,36 +13,35 @@ Software Engineering Student at BYU-Idaho.
 
 ## Education
 
-`2019-2023`
+`Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.81 GPA
 
 ## Experimental Learning Projects
 __Command Line Calculator__, Personal Project ~ Java
-* Designed software with multiple classes that inherit from one another to utilize basic syntax up to object- oriented programming in evaluation of my Java knowledge
-* Created a calculator in the command line that incorporates all basic math functions in a menu to field math questions a user may have
-* Customized the calculator to show previous totals by reorganizing the totals into a list so the user could track the totals they already calculated
+* Designed software in multiple classes that inherit from one another to utilize basic syntax up to object-oriented programming in java
+* Created a calculator in the command line that incorporates all basic math functions in a menu to field math questions a end user may have
+* Customized the calculator by reorganizing historical totals from the user into a list
 
 __Steam Inspired MySQL Database__, Group Member ~ SQL, Python, Excel
-* Demonstrated the ability to create and populate a MySQL database through testing concepts taught over the semester using the SQL language
-* Engineered many key relationships between tables in the database by experimenting with the creation of tables and how to foster relationships between the tables more effectively to deliver a database with multiple tables integrated
-* Structured the database with custom-made data extracted from Excel and implemented using Python to transform the database into a usable model
+* Created and populated a MySQL database through testing concepts taught over the course of a semester using the SQL language
+* Engineered many key relationships between tables in a database by experimenting with the creation of tables 
+* Effectively delivered a database with multiple table integrations through fostering relationships between the tables
+* Structured a database with custom-made data extracted from Excel and implemented using Python to transform the database into a usable model
 
 __Sleep Calculator IOS App__, Personal Project ~ Swift, SwiftUI
 * Examined the life-long question of what time is the best to wake up by analyzing different times people wake up and how they calculate it
 * Pioneered a mobile app calculator to explain to the user when someone should wake up by integrating the calculations and methods discovered
-* Showcased a fully functional IOS app that accepts the user’s bedtime,and reports what times would be best to wake up at
+* Showcased a fully functional IOS app that accepts the user’s inputed bedtime and describes which times would be best to wake up
 
 ## Work Experience
 `2022-`
 __AvantGuard Monitoring Centers__, Team Mentor
 * Maximized customer safety and satisfaction by properly administering resources and emotional support in
 crisis situations
-* Resolved customer conflict and advised solutions to situations they informed me of when communicating over
-the phone
-* Earned a promotion to mentor other operators by demonstrating knowledge and integrity in areas the company
-lacked to enhance the company’s efficiency
+* Resolved customer conflict and advised solutions to situations from information recieved over the phone
+* Mentored other operators by demonstrating knowledge and integrity to enhance the company’s efficiency
 
 
 ## Service and Work History
